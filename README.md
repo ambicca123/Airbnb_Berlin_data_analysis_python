@@ -30,7 +30,7 @@ This project excessively uses Python and Tableau. The following tools and librar
 - statsmodels.api
 
 # Time-Series Analysis
-A time series analysis was learned during this project. Since the data for Airbnb analysis only contianed forecasted data from 2022 to 2033, additional data was used for the time series analysis which can be viewed in the time series folder.
+A time series analysis was learned during this project. Since the data for Airbnb analysis only contianed forecasted data from 2022 to 2023, additional data was used for the time series analysis which can be viewed in the time series folder.
 
 # Deliverables
 Included in the respository is:
