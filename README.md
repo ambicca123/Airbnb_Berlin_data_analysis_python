@@ -15,18 +15,18 @@ http://insideairbnb.com/get-the-data/
 # Tools
 This project excessively uses Python and Tableau. The following tools and libraries was used in python:
 
-Anaconda 3
-Jupyter Notebook
-Pandas
-Seaborn
-Matplotlib
-Scipy
-Numpy
-Folium
-Geopy
-Geoplot
-scikit-learn
-k-means
-statsmodels.api
+- Anaconda 3
+- Jupyter Notebook
+- Pandas
+- Seaborn
+- Matplotlib
+- Scipy
+- Numpy
+- Folium
+- Geopy
+- Geoplot
+- scikit-learn
+- k-means
+- statsmodels.api
 
 # Time-Series Analysis
