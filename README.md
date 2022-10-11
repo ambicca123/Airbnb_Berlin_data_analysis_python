@@ -37,6 +37,6 @@ This Data is downloaded from https://ec.europa.eu/eurostat/databrowser/view/TOUR
 Included in the respository is:
 
 - Scripts used to wrangle and analyzethe data
-- Tableau Public was used to create a dashboard to present data. Not all script results were presented in the story, only relevant analysis. [Link](https://public.tableau.com/app/profile/ambicca.timilsena) 
+- Tableau Public was used to create a dashboard to present data. Not all script results were presented in the story, only relevant analysis. [Link for Tableau Story Presentation](https://public.tableau.com/app/profile/ambicca.timilsena) 
 
 
