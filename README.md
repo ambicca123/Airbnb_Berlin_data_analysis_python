@@ -11,3 +11,22 @@ The objective of this study is to analyze what variables may impact the price of
 # Data Source
 This public dataset is part of Airbnb, and the original source can be found on this Website.
 http://insideairbnb.com/get-the-data/ 
+
+# Tools
+This project excessively uses Python and Tableau. The following tools and libraries was used in python:
+
+Anaconda 3
+Jupyter Notebook
+Pandas
+Seaborn
+Matplotlib
+Scipy
+Numpy
+Folium
+Geopy
+Geoplot
+scikit-learn
+k-means
+statsmodels.api
+
+# Time-Series Analysis
