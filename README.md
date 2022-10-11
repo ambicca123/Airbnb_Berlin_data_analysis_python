@@ -28,7 +28,7 @@ This project excessively uses Python and Tableau. The following tools and librar
 - scikit-learn
 - statsmodels.api
 
-## Tecnhiques/Algorithms
+## Techniques/Algorithms
 - Linear Regression
 - K-Means Clustering
 - Time-series analysis 
