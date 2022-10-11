@@ -30,3 +30,9 @@ This project excessively uses Python and Tableau. The following tools and librar
 - statsmodels.api
 
 # Time-Series Analysis
+
+# Deliverables
+Included in the respository is:
+
+- Scripts used to wrangle and analyzethe data
+- A Tableau presentation of the results
