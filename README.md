@@ -26,7 +26,6 @@ This project excessively uses Python and Tableau. The following tools and librar
 - Geopy
 - Geoplot
 - scikit-learn
-- k-means
 - statsmodels.api
 
 ## Time-Series Analysis
