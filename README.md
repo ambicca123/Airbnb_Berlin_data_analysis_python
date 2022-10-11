@@ -31,12 +31,12 @@ This project excessively uses Python and Tableau. The following tools and librar
 
 # Time-Series Analysis
 A time series analysis was learned during this project. Since the data for Airbnb analysis only contianed forecasted data from 2022 to 2023, additional data was used for the time series analysis which can be viewed in the time series folder.
+This Data is downloaded from https://ec.europa.eu/eurostat/databrowser/view/TOUR_OCC_MNOR__custom_3522408/default/table?lang=en . It contains monthly data of Net occupancy rate of bed-places and bedrooms in hotels and similar accommodation in Germany from 1990 to 2022(NACE Rev. 2, I, 55.1).
 
 # Deliverables
 Included in the respository is:
 
 - Scripts used to wrangle and analyzethe data
-- A Tableau presentation of the results: 
--- Tableau Public was used to create a dashboard to present data. Not all script results were presented in the story, only relevant analysis. Link https://public.tableau.com/app/profile/ambicca.timilsena 
+- Tableau Public was used to create a dashboard to present data. Not all script results were presented in the story, only relevant analysis. Link https://public.tableau.com/app/profile/ambicca.timilsena 
 
 
